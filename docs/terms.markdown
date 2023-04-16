@@ -10,7 +10,7 @@ permalink: /terms/
 
 ユーザーは、本サービスを利用することにより、本規約に同意したものとみなされます。したがって、本サービスを利用する前に、本規約をよくお読みいただくようお願いいたします。
 
-運営者に関するお問い合わせや連絡は、Twitterアカウント（@autotaker1984）またはメールアドレス（snippet-gpt-support@googlegroups.com）にてお願いいたします。
+運営者に関するお問い合わせや連絡は、メールアドレス（snippet-gpt-support@googlegroups.com）にてお願いいたします。
 
 # 利用条件
 ## 利用登録
